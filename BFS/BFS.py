@@ -12,7 +12,7 @@ for _ in range(T):
 
     distances = [0 for _ in range(len(graph))]
     parents = [0 for _ in range(len(graph))]
-    nTrees = -1
+    nTrees = 0
 
     while queue:
         current = queue.pop(0)
@@ -26,4 +26,4 @@ for _ in range(T):
                 queue.append([n, current[1] + 1])
     print(distances)
     print(parents)
-    print(nTrees % 1000000007)
+    print((nTrees - 1) % 1000000007)
