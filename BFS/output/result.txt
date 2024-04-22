@@ -1,0 +1,7 @@
+
+Subtask 1 (2 testcases):
+Case #001 [esempi_testo - hardcoded]: RE
+Case #002 [esempi_testo - hardcoded]: RE
+
+
+Score: 0 of the 6 points available on the 0/2 testcases (instances) where your solution respected the intended protocol (2 testcases yielded RE).
