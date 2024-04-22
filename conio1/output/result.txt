@@ -1,9 +1,35 @@
 
 Subtask 1 (4 testcases):
-Case #001 [esempi_testo - hardcoded]: RE
-Case #002 [esempi_testo - hardcoded]: RE
-Case #003 [esempi_testo - hardcoded]: RE
-Case #004 [esempi_testo - hardcoded]: RE
+Case #001 [esempi_testo - hardcoded]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
+Case #002 [esempi_testo - hardcoded]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
+Case #003 [esempi_testo - hardcoded]: AC (0.038/1.000 secs) All Correct (got 2/2 points)
+Case #004 [esempi_testo - hardcoded]: AC (0.035/1.000 secs) All Correct (got 2/2 points)
+
+Subtask 2 (5 testcases):
+Case #005 [small(seed=837533)]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
+Case #006 [small(seed=979776)]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
+Case #007 [small(seed=311524)]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
+Case #008 [small(seed=159900)]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
+Case #009 [small(seed=903476)]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
+
+Subtask 3 (4 testcases):
+Case #010 [medium(seed=142047)]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
+Case #011 [medium(seed=123437)]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
+Case #012 [medium(seed=727213)]: AC (0.036/1.000 secs) All Correct (got 2/2 points)
+Case #013 [medium(seed=972027)]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
+
+Subtask 4 (3 testcases):
+Case #014 [big(seed=119742)]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
+Case #015 [big(seed=168331)]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
+Case #016 [big(seed=417518)]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
+
+Subtask 5 (2 testcases):
+Case #017 [large(seed=694885)]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
+Case #018 [large(seed=918427)]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
+
+Subtask 6 (2 testcases):
+Case #019 [extra_large(seed=826175)]: AC (0.036/1.000 secs) All Correct (got 2/2 points)
+Case #020 [extra_large(seed=102022)]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
 
 
-Score: 0 of the 8 points available on the 0/4 testcases (instances) where your solution respected the intended protocol (4 testcases yielded RE).
+Score: 40/40 points

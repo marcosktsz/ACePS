@@ -15,4 +15,6 @@ for _ in range(T):
             tagli.pop()
 
     print(sum(utilizzi))
-    print(utilizzi)
+    for utilizzo in utilizzi:
+        print(utilizzo, end=" ")
+    print()
