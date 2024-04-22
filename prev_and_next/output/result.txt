@@ -1,0 +1,34 @@
+
+Subtask 1 (7 testcases):
+Case #001 [esempi_testo - hardcoded]: AC (0.036/1.000 secs) All Correct (got 2/2 points)
+Case #002 [esempi_testo - hardcoded]: RE
+Case #003 [esempi_testo - hardcoded]: RE
+Case #004 [esempi_testo - hardcoded]: RE
+Case #005 [esempi_testo - hardcoded]: RE
+Case #006 [esempi_testo - hardcoded]: RE
+Case #007 [esempi_testo - hardcoded]: RE
+
+Subtask 2 (3 testcases):
+Case #008 [smallC(seed=289324)]: RE
+Case #009 [smallC(seed=268457)]: RE
+Case #010 [smallC(seed=947872)]: RE
+
+Subtask 3 (4 testcases):
+Case #011 [mediumC(seed=985674)]: RE
+Case #012 [mediumC(seed=836077)]: RE
+Case #013 [mediumC(seed=724845)]: RE
+Case #014 [mediumC(seed=451943)]: RE
+
+Subtask 4 (3 testcases):
+Case #015 [bigC(seed=222839)]: RE
+Case #016 [bigC(seed=712744)]: RE
+Case #017 [bigC(seed=805612)]: RE
+
+Subtask 5 (4 testcases):
+Case #018 [smallT(seed=324838)]: RE
+Case #019 [smallT(seed=270627)]: RE
+Case #020 [smallT(seed=932525)]: RE
+Case #021 [smallT(seed=977295)]: RE
+
+
+Score: 2 of the 42 points available on the 1/21 testcases (instances) where your solution respected the intended protocol (20 testcases yielded RE).

@@ -1,0 +1,73 @@
+TALight evaluation manager service called for problem:
+   prev_and_next
+Universal Random Seed for this call to the service: 902652.
+
+File ../../common/README_synopsis.typ downloaded in the output folder.
+File ../../common/README_rtal.typ downloaded in the output folder.
+File README_this_TALight_problem.typ not found!
+The server is running in TRACKING mode, that is, it keeps track of the autenticated submissions and their evaluation results.
+And the user has autenticated by providing his personal token in this call to the server.
+
+Trying to read the data.yaml file `/home/ubuntu/esami-algo-private/esercitazioni_homeworks_algo_2024/prev_and_next/testo/data.yaml` ...
+Ok: data.yaml file successfully read and parsed.
+The testbed has been successfully created.
+
+Subtask 1 (7 testcases):
+
+Case #001 [esempi_testo - hardcoded]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #001 [esempi_testo - hardcoded]: successfully ended (=communication protocol fully respected).
+
+Case #002 [esempi_testo - hardcoded]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Case #003 [esempi_testo - hardcoded]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Case #004 [esempi_testo - hardcoded]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Case #005 [esempi_testo - hardcoded]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Case #006 [esempi_testo - hardcoded]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Case #007 [esempi_testo - hardcoded]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Subtask 2 (3 testcases):
+
+Case #008 [smallC(seed=289324)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Case #009 [smallC(seed=268457)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Case #010 [smallC(seed=947872)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Subtask 3 (4 testcases):
+
+Case #011 [mediumC(seed=985674)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Case #012 [mediumC(seed=836077)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Case #013 [mediumC(seed=724845)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Case #014 [mediumC(seed=451943)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Subtask 4 (3 testcases):
+
+Case #015 [bigC(seed=222839)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Case #016 [bigC(seed=712744)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Case #017 [bigC(seed=805612)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Subtask 5 (4 testcases):
+
+Case #018 [smallT(seed=324838)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Case #019 [smallT(seed=270627)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Case #020 [smallT(seed=932525)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Case #021 [smallT(seed=977295)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+
+Trying to store the results of the evalution in the database on the server.
+-Ok. The results of the evalution have been stored in the database on the server.
+
+File result.txt downloaded in your output folder.
+
+Bye-bye, my logging service ends here. Hope to see you again.
