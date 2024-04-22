@@ -1,5 +1,6 @@
 tilings = []
 pairs = []
+counts = []
 
 
 def tiling(size, history=""):
@@ -21,8 +22,13 @@ def parentheses(size, history="", left=0, right=0):
         parentheses(size, history + ")", left, right + 1)
 
 
-def numbers(input):
-    print("")
+def numbers(size, base, history=""):
+    if size == 0:
+        counts.append(history)
+    else:
+        for n in range(base):
+            numbers(size - 1, base, history + str(n))
+            # numbers(size - 1, base, history + "0")
 
 
 T = int(input())
@@ -58,4 +64,5 @@ for _ in range(T):
                     print()
         pairs = []
     else:
-        print()
+        numbers(3, 6)
+        print(counts)
