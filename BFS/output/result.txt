@@ -1,6 +1,6 @@
 
 Subtask 1 (2 testcases):
-Case #001 [esempi_testo - hardcoded]: PAC (0.034/1.000 secs) Partially Correct (2/3 points)
+Case #001 [esempi_testo - hardcoded]: PAC (0.006/1.000 secs) Partially Correct (2/3 points)
 Some feedback is in order:
  - compute distances: 1/1 points. Feedback: The distances are ok.
 
@@ -8,7 +8,7 @@ Some feedback is in order:
 
  - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 2 and not 0 as you stated.
 
-Case #002 [esempi_testo - hardcoded]: PAC (0.034/1.000 secs) Partially Correct (2/3 points)
+Case #002 [esempi_testo - hardcoded]: PAC (0.005/1.000 secs) Partially Correct (2/3 points)
 Some feedback is in order:
  - compute distances: 1/1 points. Feedback: The distances are ok.
 
@@ -18,55 +18,7 @@ Some feedback is in order:
 
 
 Subtask 2 (12 testcases):
-Case #003 [small(seed=758396)]: PAC (0.038/1.000 secs) Partially Correct (2/3 points)
-Some feedback is in order:
- - compute distances: 1/1 points. Feedback: The distances are ok.
-
- - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
-
- - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 4 and not 0 as you stated.
-
-Case #004 [small(seed=522391)]: PAC (0.034/1.000 secs) Partially Correct (2/3 points)
-Some feedback is in order:
- - compute distances: 1/1 points. Feedback: The distances are ok.
-
- - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
-
- - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 2 and not 0 as you stated.
-
-Case #005 [small(seed=529559)]: PAC (0.034/1.000 secs) Partially Correct (2/3 points)
-Some feedback is in order:
- - compute distances: 1/1 points. Feedback: The distances are ok.
-
- - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
-
- - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 4 and not 0 as you stated.
-
-Case #006 [small(seed=402346)]: PAC (0.034/1.000 secs) Partially Correct (2/3 points)
-Some feedback is in order:
- - compute distances: 1/1 points. Feedback: The distances are ok.
-
- - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
-
- - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 4 and not 0 as you stated.
-
-Case #007 [small(seed=853365)]: PAC (0.035/1.000 secs) Partially Correct (2/3 points)
-Some feedback is in order:
- - compute distances: 1/1 points. Feedback: The distances are ok.
-
- - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
-
- - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 2 and not 0 as you stated.
-
-Case #008 [small(seed=498283)]: PAC (0.034/1.000 secs) Partially Correct (2/3 points)
-Some feedback is in order:
- - compute distances: 1/1 points. Feedback: The distances are ok.
-
- - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
-
- - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 2 and not 0 as you stated.
-
-Case #009 [small(seed=768430)]: PAC (0.033/1.000 secs) Partially Correct (2/3 points)
+Case #003 [small(seed=497971)]: PAC (0.004/1.000 secs) Partially Correct (2/3 points)
 Some feedback is in order:
  - compute distances: 1/1 points. Feedback: The distances are ok.
 
@@ -74,7 +26,15 @@ Some feedback is in order:
 
  - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 1 and not 0 as you stated.
 
-Case #010 [small(seed=483119)]: PAC (0.034/1.000 secs) Partially Correct (2/3 points)
+Case #004 [small(seed=843562)]: PAC (0.005/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 1 and not 0 as you stated.
+
+Case #005 [small(seed=663270)]: PAC (0.004/1.000 secs) Partially Correct (2/3 points)
 Some feedback is in order:
  - compute distances: 1/1 points. Feedback: The distances are ok.
 
@@ -82,7 +42,7 @@ Some feedback is in order:
 
  - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 4 and not 0 as you stated.
 
-Case #011 [small(seed=362017)]: PAC (0.033/1.000 secs) Partially Correct (2/3 points)
+Case #006 [small(seed=962434)]: PAC (0.004/1.000 secs) Partially Correct (2/3 points)
 Some feedback is in order:
  - compute distances: 1/1 points. Feedback: The distances are ok.
 
@@ -90,7 +50,47 @@ Some feedback is in order:
 
  - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 4 and not 0 as you stated.
 
-Case #012 [small(seed=447946)]: PAC (0.034/1.000 secs) Partially Correct (2/3 points)
+Case #007 [small(seed=690749)]: PAC (0.006/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 4 and not 0 as you stated.
+
+Case #008 [small(seed=971555)]: PAC (0.007/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 3 and not 0 as you stated.
+
+Case #009 [small(seed=905173)]: PAC (0.007/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 1 and not 0 as you stated.
+
+Case #010 [small(seed=350594)]: PAC (0.006/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 1 and not 0 as you stated.
+
+Case #011 [small(seed=940547)]: PAC (0.004/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 4 and not 0 as you stated.
+
+Case #012 [small(seed=611430)]: PAC (0.005/1.000 secs) Partially Correct (2/3 points)
 Some feedback is in order:
  - compute distances: 1/1 points. Feedback: The distances are ok.
 
@@ -98,22 +98,314 @@ Some feedback is in order:
 
  - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 2 and not 0 as you stated.
 
-Case #013 [small(seed=942433)]: PAC (0.034/1.000 secs) Partially Correct (2/3 points)
+Case #013 [small(seed=205114)]: PAC (0.004/1.000 secs) Partially Correct (2/3 points)
 Some feedback is in order:
  - compute distances: 1/1 points. Feedback: The distances are ok.
 
  - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
 
- - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 4 and not 0 as you stated.
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 1 and not 0 as you stated.
 
-Case #014 [small(seed=526312)]: PAC (0.034/1.000 secs) Partially Correct (2/3 points)
+Case #014 [small(seed=556993)]: PAC (0.006/1.000 secs) Partially Correct (2/3 points)
 Some feedback is in order:
  - compute distances: 1/1 points. Feedback: The distances are ok.
 
  - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
 
- - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 4 and not 0 as you stated.
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 1 and not 0 as you stated.
+
+
+Subtask 3 (18 testcases):
+Case #015 [medium(seed=406151)]: PAC (0.007/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 625595279 and not 0 as you stated.
+
+Case #016 [medium(seed=351527)]: PAC (0.007/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 813908068 and not 0 as you stated.
+
+Case #017 [medium(seed=276440)]: PAC (0.007/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 183964938 and not 0 as you stated.
+
+Case #018 [medium(seed=595198)]: PAC (0.007/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 901159880 and not 0 as you stated.
+
+Case #019 [medium(seed=631789)]: PAC (0.008/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 963276530 and not 0 as you stated.
+
+Case #020 [medium(seed=848322)]: PAC (0.007/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 457613980 and not 0 as you stated.
+
+Case #021 [medium(seed=359530)]: PAC (0.007/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 384917066 and not 0 as you stated.
+
+Case #022 [medium(seed=246134)]: PAC (0.007/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 265530467 and not 0 as you stated.
+
+Case #023 [medium(seed=117566)]: PAC (0.008/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 434626950 and not 0 as you stated.
+
+Case #024 [medium(seed=920650)]: PAC (0.008/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 441855801 and not 0 as you stated.
+
+Case #025 [medium(seed=230244)]: PAC (0.008/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 138903588 and not 0 as you stated.
+
+Case #026 [medium(seed=214935)]: PAC (0.010/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 154337320 and not 0 as you stated.
+
+Case #027 [medium(seed=666661)]: PAC (0.008/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 674302550 and not 0 as you stated.
+
+Case #028 [medium(seed=746438)]: PAC (0.009/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 353911645 and not 0 as you stated.
+
+Case #029 [medium(seed=954044)]: PAC (0.006/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 267695584 and not 0 as you stated.
+
+Case #030 [medium(seed=928244)]: PAC (0.008/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 331316592 and not 0 as you stated.
+
+Case #031 [medium(seed=574250)]: PAC (0.008/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 773252669 and not 0 as you stated.
+
+Case #032 [medium(seed=831923)]: PAC (0.008/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 282597023 and not 0 as you stated.
+
+
+Subtask 4 (18 testcases):
+Case #033 [big(seed=793628)]: PAC (0.399/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 327106278 and not 0 as you stated.
+
+Case #034 [big(seed=679825)]: PAC (0.355/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 589889704 and not 0 as you stated.
+
+Case #035 [big(seed=646490)]: PAC (0.351/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 918359703 and not 0 as you stated.
+
+Case #036 [big(seed=336818)]: PAC (0.350/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 455114392 and not 0 as you stated.
+
+Case #037 [big(seed=539110)]: PAC (0.347/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 375131973 and not 0 as you stated.
+
+Case #038 [big(seed=735356)]: PAC (0.346/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 744890856 and not 0 as you stated.
+
+Case #039 [big(seed=376193)]: PAC (0.355/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 24577192 and not 0 as you stated.
+
+Case #040 [big(seed=539289)]: PAC (0.360/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 900071341 and not 0 as you stated.
+
+Case #041 [big(seed=621016)]: PAC (0.353/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 713915382 and not 0 as you stated.
+
+Case #042 [big(seed=740479)]: PAC (0.352/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 13169760 and not 0 as you stated.
+
+Case #043 [big(seed=298938)]: PAC (0.348/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 838084205 and not 0 as you stated.
+
+Case #044 [big(seed=625890)]: PAC (0.351/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 238433827 and not 0 as you stated.
+
+Case #045 [big(seed=712411)]: PAC (0.364/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 160688460 and not 0 as you stated.
+
+Case #046 [big(seed=996943)]: PAC (0.351/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 647782754 and not 0 as you stated.
+
+Case #047 [big(seed=474666)]: PAC (0.349/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 57874125 and not 0 as you stated.
+
+Case #048 [big(seed=632480)]: PAC (0.352/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 261359331 and not 0 as you stated.
+
+Case #049 [big(seed=225968)]: PAC (0.359/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 977999161 and not 0 as you stated.
+
+Case #050 [big(seed=796691)]: PAC (0.353/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - compute distances: 1/1 points. Feedback: The distances are ok.
+
+ - compute BFS-tree: 1/1 points. Feedback: The BFS-tree is ok.
+
+ - count number of BFS-trees: 0/1 points. Feedback: The correct number of BFS-trees is 925720708 and not 0 as you stated.
 
 
 
-Score: 28/42 points
+Score: 100/150 points
