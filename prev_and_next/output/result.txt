@@ -1,11 +1,19 @@
 
 Subtask 1 (7 testcases):
-Case #001 [esempi_testo - hardcoded]: AC (0.032/1.000 secs) All Correct (got 2/2 points)
-Case #002 [esempi_testo - hardcoded]: AC (0.033/1.000 secs) All Correct (got 2/2 points)
-Case #003 [esempi_testo - hardcoded]: AC (0.033/1.000 secs) All Correct (got 2/2 points)
-Case #004 [esempi_testo - hardcoded]: AC (0.032/1.000 secs) All Correct (got 2/2 points)
-Case #005 [esempi_testo - hardcoded]: AC (0.032/1.000 secs) All Correct (got 2/2 points)
-Case #006 [esempi_testo - hardcoded]: PAC (0.035/1.000 secs) Partially Correct (1/2 points)
+Case #001 [esempi_testo - hardcoded]: AC (0.049/1.000 secs) All Correct (got 2/2 points)
+Case #002 [esempi_testo - hardcoded]: AC (0.049/1.000 secs) All Correct (got 2/2 points)
+Case #003 [esempi_testo - hardcoded]: AC (0.038/1.000 secs) All Correct (got 2/2 points)
+Case #004 [esempi_testo - hardcoded]: AC (0.034/1.000 secs) All Correct (got 2/2 points)
+Case #005 [esempi_testo - hardcoded]: PAC (0.036/1.000 secs) Partially Correct (1/2 points)
+Some feedback is in order:
+ - prev: 0/1 points. Feedback: The correct previous of:
+   [][]
+is:
+   
+not:
+   [--]
+
+Case #006 [esempi_testo - hardcoded]: PAC (0.055/1.000 secs) Partially Correct (1/2 points)
 Some feedback is in order:
  - next: 0/1 points. Feedback: The correct next of:
    (((())))(()())()
@@ -14,66 +22,7 @@ is:
 not:
    (((())))(()()())
 
-Case #007 [esempi_testo - hardcoded]: AC (0.033/1.000 secs) All Correct (got 2/2 points)
-
-Subtask 2 (3 testcases):
-Case #008 [smallC(seed=635991)]: AC (0.033/1.000 secs) All Correct (got 2/2 points)
-Case #009 [smallC(seed=719118)]: AC (0.032/1.000 secs) All Correct (got 2/2 points)
-Case #010 [smallC(seed=313215)]: AC (0.032/1.000 secs) All Correct (got 2/2 points)
-
-Subtask 3 (4 testcases):
-Case #011 [mediumC(seed=543393)]: AC (0.033/1.000 secs) All Correct (got 2/2 points)
-Case #012 [mediumC(seed=207401)]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
-Case #013 [mediumC(seed=720909)]: AC (0.033/1.000 secs) All Correct (got 2/2 points)
-Case #014 [mediumC(seed=754839)]: AC (0.034/1.000 secs) All Correct (got 2/2 points)
-
-Subtask 4 (3 testcases):
-Case #015 [bigC(seed=339772)]: AC (0.303/1.000 secs) All Correct (got 2/2 points)
-Case #016 [bigC(seed=484953)]: AC (0.243/1.000 secs) All Correct (got 2/2 points)
-Case #017 [bigC(seed=305446)]: AC (0.230/1.000 secs) All Correct (got 2/2 points)
-
-Subtask 5 (4 testcases):
-Case #018 [smallT(seed=959408)]: AC (0.032/1.000 secs) All Correct (got 2/2 points)
-Case #019 [smallT(seed=295338)]: AC (0.033/1.000 secs) All Correct (got 2/2 points)
-Case #020 [smallT(seed=490209)]: AC (0.033/1.000 secs) All Correct (got 2/2 points)
-Case #021 [smallT(seed=327015)]: AC (0.034/1.000 secs) All Correct (got 2/2 points)
-
-Subtask 6 (3 testcases):
-Case #022 [mediumT(seed=444526)]: AC (0.033/1.000 secs) All Correct (got 2/2 points)
-Case #023 [mediumT(seed=548577)]: PAC (0.033/1.000 secs) Partially Correct (1/2 points)
-Some feedback is in order:
- - prev: 0/1 points. Feedback: Your answer is not the correct previous. Use the flag argument `-a download_your_answ` in the `rtal` call to downloaded as files in the `output` folder what you return as optimal solutions. Use arguments `instance_seed` or `global_seed` to revisit past testcases. Be aware that:
-  1. `rtal connect <problem_name> synopsis` reveals and explains all available services and arguments for a given problem
-  2. your code can write its own files while running
-  3. print debugging: what your code writes on `stderr` goes on your screen without compromising the evaluation.
-
-Case #024 [mediumT(seed=610402)]: PAC (0.034/1.000 secs) Partially Correct (1/2 points)
-Some feedback is in order:
- - prev: 0/1 points. Feedback: Your answer is not the correct previous. Use the flag argument `-a download_your_answ` in the `rtal` call to downloaded as files in the `output` folder what you return as optimal solutions. Use arguments `instance_seed` or `global_seed` to revisit past testcases. Be aware that:
-  1. `rtal connect <problem_name> synopsis` reveals and explains all available services and arguments for a given problem
-  2. your code can write its own files while running
-  3. print debugging: what your code writes on `stderr` goes on your screen without compromising the evaluation.
+Case #007 [esempi_testo - hardcoded]: AC (0.037/1.000 secs) All Correct (got 2/2 points)
 
 
-Subtask 7 (4 testcases):
-Case #025 [bigT(seed=901865)]: AC (0.175/1.000 secs) All Correct (got 2/2 points)
-Case #026 [bigT(seed=194493)]: AC (0.181/1.000 secs) All Correct (got 2/2 points)
-Case #027 [bigT(seed=419407)]: AC (0.200/1.000 secs) All Correct (got 2/2 points)
-Case #028 [bigT(seed=742327)]: TLE (1.175/1.000 secs) time limit exceeded  (otherwise would have got 2/2 points)
-
-Subtask 8 (4 testcases):
-Case #029 [smallF(seed=899654)]: AC (0.031/1.000 secs) All Correct (got 2/2 points)
-Case #030 [smallF(seed=272138)]: AC (0.032/1.000 secs) All Correct (got 2/2 points)
-Case #031 [smallF(seed=799847)]: AC (0.127/1.000 secs) All Correct (got 2/2 points)
-Case #032 [smallF(seed=806494)]: PAC (0.042/1.000 secs) Partially Correct (1/2 points)
-Some feedback is in order:
- - next: 0/1 points. Feedback: The correct next of:
-   (((())())())((()))
-is:
-   (((()()))())((()))
-not:
-   (((())())()())()()
-
-
-
-Score: 58/64 points
+Score: 12/14 points
