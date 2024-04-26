@@ -31,6 +31,7 @@ for _ in range(T):
         print(parent, end=" ")
     print()
     childNodes.pop(0)
+
     count = 1
     for child, parents in childNodes.items():
         dis = []
@@ -39,5 +40,3 @@ for _ in range(T):
         comb = dis.count(min(dis))
         count *= comb
     print(count % 1000000007)
-
-    # print(count % 1000000007)
