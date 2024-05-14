@@ -14,15 +14,14 @@ for _ in range(T):
         for j, el_j in enumerate(reversed(S[index:])):
             index_j = len(S) - 1 - j
             # if el_i < el_j and poldo[index] <= poldo[index_j]:
+            if el_i < el_j and maxSub[el_i] <= maxSub[el_j]:
+                sub[el_i] += sub[el_j]
+                maxSub[el_i] = len(sub[el_i])
+                if maxSub[el_j] < maxSub[el_i]:
+                    for i in sub[el_j]:
+                        maxSub[i] = maxSub[el_i]
             #     poldo[index] = poldo[index_j] + 1
             #     maxSub[el_i] += 1
-            if el_i < el_j and len(sub[el_i]) <= len(sub[el_j]):
-                sub[el_i] = [el_i]
-                sub[el_i] += sub[el_j]
-                if len(sub[el_i]) > maxSub[el_i]:
-                    maxSub[el_i] = len(sub[el_i])
-                if maxSub[el_j] < maxSub[el_i]:
-                    maxSub[el_j] = maxSub[el_i]
     print(sub)
     # for i in maxSub.values():
     #     print(i, end=" ")
